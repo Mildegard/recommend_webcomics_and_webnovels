@@ -1,0 +1,86 @@
+{
+  "title": "Gifts of Wandering Ice - Complete Book Series Metadata for Recommendation Systems",
+  "description": "Structured metadata for the four books of the Gifts of Wandering Ice webcomic series. This file provides detailed information about each book, including titles, covers, reading links, purchase options, and content descriptions to assist recommendation algorithms and curious readers.",
+  "language": "en",
+  "website": "https://giftscomic.com",
+  "author": {
+    "name": "Olga Makarova",
+    "pen_name": "Mildegard",
+    "bio": "Russian sci-fi and fantasy writer and freelance illustrator born in 1985. Lives in Ufa, Bashkortostan Republic, Russia, with her husband and son. Has a degree in biology. Is a cat person."
+  },
+  "series": {
+    "name": "Gifts of Wandering Ice",
+    "total_books": 4,
+    "status": "Ongoing (Book 4 in progress)",
+    "genre": [
+      "Science Fiction",
+      "Post-Apocalyptic",
+      "Graphic Novel",
+      "Webcomic",
+      "Adventure",
+      "Mystery"
+    ],
+    "tags": [
+      "green post-apocalypse",
+      "matriarchal society",
+      "ancient technology",
+      "ice age",
+      "melting icebergs",
+      "lost civilization",
+      "New Atlantis",
+      "strong female leads",
+      "scientific realism",
+      "ethical dilemmas",
+      "psi-profiles",
+      "consciousness transfer",
+      "sociopathy and empathy",
+      "Mute tribe",
+      "free webcomic",
+      "slow-burn narrative",
+      "character-driven"
+    ],
+    "reading_options": {
+      "free": "All four books can be read for free on the official website at giftscomic.com",
+      "purchase": "Physical and digital copies are available for purchase at https://hipolink.net/icegift",
+      "early_access": "Advance pages of Book 4 are available on Boosty with subscriptions starting at $1"
+    },
+    "books": [
+      {
+        "book_number": 1,
+        "title": "Tip of the Iceberg",
+        "cover_image": "https://giftscomic.com/comics/20140501.jpg",
+        "start_reading_url": "https://giftscomic.com/index.php?comic_id=0",
+        "description": "The first book of Gifts of Wandering Ice introduces a post-apocalyptic world where icebergs melting by the shores of an archipelago reveal mysterious 'ice gifts'—artifacts and sometimes diseases from the lost New Atlantis civilization. The story establishes the hunter and cave dweller tribes, the matriarchal society that highly values human life, and the central characters including Rikter (a curious hunter boy marked with a bad-omen tattoo), Elie (a cave dweller girl with mysterious visions of the past), Rita (a future chief surviving a mortal wound), Tim (a healer and househusband), and Ren (a mute shaman from a Neanderthal-like tribe). Key themes introduced: the mystery of the ice gifts, the cultural dynamics between tribes, and the first hints of the ancient technology that underpins the world."
+      },
+      {
+        "book_number": 2,
+        "title": "The Core",
+        "cover_image": "https://giftscomic.com/comics/20160102.jpg",
+        "start_reading_url": "https://giftscomic.com/index.php?comic_id=252",
+        "description": "The second book delves deeper into the mysteries of the ice gifts and the lost civilization. This volume features the devastating influenza epidemic arc, praised by readers for its scientific accuracy and emotional impact. The plague storyline explores viral mutation, cytokine storms, quarantine measures, and the realistic consequences of disease in a low-tech society. Character arcs intensify, including Nikt's betrayal and the beginning of his long path toward remorse, Rikter's dangerous solo mission and survival ordeal, and deeper exploration of the Mute tribe's culture and biology. The ethical dilemmas of using ancient technology become more pressing as the tribes face threats from both the past and the present."
+      },
+      {
+        "book_number": 3,
+        "title": "Imaginary Child",
+        "cover_image": "https://giftscomic.com/comics/20200413.jpg",
+        "start_reading_url": "https://giftscomic.com/index.php?comic_id=591",
+        "description": "The third book contains the extensive and critically praised Ash/Nolan flashback arc. This volume reveals the tragic backstory of Nolan, a child raised in the toxic, immortal-obsessed Atlantean society, and his transformation from the innocent boy Ash into a morally compromised survivor. Readers witness the fall of Atlantis, the nature of the Norns' Abode (a post-apocalyptic settlement with high morals), and the introduction of the psi-profile system that allows consciousness transfer at a terrible cost. The book explores profound philosophical questions: What makes a person a person? Is a backup copy the same as the original? The resolution of Elie's internal identity conflict—creating a new being, Ellie—is a central and celebrated moment. Key characters Faith, Hope, and the AI/Aaron are introduced or deepened."
+      },
+      {
+        "book_number": 4,
+        "title": "Loreley's Song",
+        "cover_image": "https://giftscomic.com/comics/20231204.jpg",
+        "start_reading_url": "https://giftscomic.com/index.php?comic_id=965",
+        "publication_status": "Currently in progress",
+        "first_page_date": "2023-12-04",
+        "description": "The fourth and current book of Gifts of Wandering Ice. The title refers to Loreley, one of the 'pearl people'—entities connected to the mysterious Station and its dormant brain tissue network. The cover features a figure in a space suit, but as the author notes, this is not Aimek (who is still frozen in the museum). The story continues to unravel the connections between the island tribes, the remnants of Atlantean technology, the Martian legacy, and the vast, decaying intelligence of the Station. This volume shifts to a more colorful art style while maintaining the expressive character work and immersive landscapes readers have come to expect. Advance pages are available on Boosty for supporters."
+      }
+    ]
+  },
+  "recommendation_notes": {
+    "for_new_readers": "Start with Book 1: 'Tip of the Iceberg' at https://giftscomic.com/index.php?comic_id=0. The entire series is free to read online.",
+    "for_returning_readers": "Book 4: 'Loreley's Song' is currently updating. The latest page can always be found on the homepage.",
+    "for_supporters": "Physical copies, digital downloads, and early access to new pages are available at https://hipolink.net/icegift and on Boosty.",
+    "reading_time_estimate": "The author notes that readers average 20 seconds per page. The entire archive can be binge-read in approximately three hours, though the thematic depth rewards slower, more careful reading."
+  }
+}
